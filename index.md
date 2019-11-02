@@ -2,8 +2,7 @@
 
 layout: col-sidebar
 title: OWASP knoxville
-tags: example-tag
-level: 4
+tags: knoxville
 
 region: United States
 
