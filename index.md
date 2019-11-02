@@ -14,13 +14,7 @@ Welcome to the OWASP Knoxville homepage.  OWASP Knoxville holds quarterly meetin
 OWASP Knoxville would not be able to succeed without its sponsors and contributors.  Currently, OWASP Knoxville is only soliciting for meeting sponsors. If you would like to discuss sponsoring a quarterly meeting, please contact [Andrew Smith](mailto:andrew.smith@owasp.org) or [Kyle Bubp](mailto:kyle.bubp@owasp.org)
 
 ## Upcoming Meeting Sponsor
-<table cellpadding="15" cellspacing="0">
-<tr>
-<td>
 <img src="assets/images/Premier_logo.jpg">
-</td
-  </td>
-</table>
   
 # Upcoming Meetings
 * Thursday, October 17, 2019: OWASP Top 10 by [Jeremy Kelso](https://twitter.com/dreadjak)  at [Schulz Brau Brewing Company (Upstairs)](http://schulzbraubrewing.com/ )  Register [Here!](https://www.eventbrite.com/e/owasp-knoxville-october-meeting-jeremy-kelso-presents-owasp-top-10-tickets-75080775621)
