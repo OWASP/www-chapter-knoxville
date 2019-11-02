@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Andrew Smith](mailto://andrew.smith@owasp.org)
+* [Kyle Bubp](mailto://kyle.bubp@owasp.org)
