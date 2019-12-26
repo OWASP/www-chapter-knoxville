@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP knoxville
 tags: knoxville
 
-region: United States
+region: North America
 
 ---
 # Meeting Info
