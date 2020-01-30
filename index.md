@@ -17,9 +17,10 @@ OWASP Knoxville would not be able to succeed without its sponsors and contributo
 <img src="assets/images/Premier_logo.jpg">
   
 # Upcoming Meetings
-* Thursday, October 17, 2019: OWASP Top 10 by [Jeremy Kelso](https://twitter.com/dreadjak)  at [Schulz Brau Brewing Company (Upstairs)](http://schulzbraubrewing.com/ )  Register [Here!](https://www.eventbrite.com/e/owasp-knoxville-october-meeting-jeremy-kelso-presents-owasp-top-10-tickets-75080775621)
+* Thursday, January 30, 2020: History of Hacking by Matt Smith  at [Casual Pint - Hardin Valley](http://hardin-valley.thecasualpint.com/)  Register [Here!](https://www.eventbrite.com/e/owasp-knoxville-hacker-history-tickets-88594437347)
 
 # Past Meetings
+* Thursday, October 17, 2019: OWASP Top 10 by [Jeremy Kelso](https://twitter.com/dreadjak)  at [Schulz Brau Brewing Company (Upstairs)](http://schulzbraubrewing.com/ )  Register [Here!](https://www.eventbrite.com/e/owasp-knoxville-october-meeting-jeremy-kelso-presents-owasp-top-10-tickets-75080775621)
 * Thursday, July 11, 2019: Summer Social Cookout at Jewelry Television (9600 Parkside Dr, Knoxville, TN 37922) - Register [Here!](https://www.eventbrite.com/e/owasp-summer-social-cookout-tickets-64171227870)
 * Thursday, April 25, 2019: "Ignoring API Security is Risky Business" by  [Osiris Martinez](https://www.linkedin.com/in/osirisgmartinez) at [Casual Pint - Hardin Valley](http://hardin-valley.thecasualpint.com/)  Register  [Here!](https://www.eventbrite.com/e/owasp-ignoring-api-security-is-risky-business-tickets-60275208772)
 * Thursday, January 24, 2019: "Back to Basics: Hacking OWASP JuiceShop" by [Jeremy Kelso](https://twitter.com/dreadjak) at [Casual Pint - Hardin Valley](http://hardin-valley.thecasualpint.com/) Register  [Here!](https://www.eventbrite.com/e/owasp-knoxville-back-to-basics-hacking-owasp-juiceshop-tickets-54143139588)
