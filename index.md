@@ -8,7 +8,7 @@ region: North America
 
 ---
 # Meeting Info
-Welcome to the OWASP Knoxville homepage.  OWASP Knoxville holds quarterly meetings discussing information and application security at various locations around Knoxville generally on a Thursday night from 6pm-8pm. Follow updates on [Twitter](https://twitter.com/OWASPKnoxville/) and join our #owasp channel on Slack  [here](https://join.slack.com/t/10-sec/shared_invite/enQtMjcwNzE2OTAyNzQzLTBmZjJkZmU3OGFiNzRlNTQwYjgxMGMwNTQzMDA0ZmQ5OGFhNTExNjlmNWZmYjIxYjc1MDkxZDg4Y2MzYTAxZGM)
+Welcome to the OWASP Knoxville homepage.  OWASP Knoxville holds quarterly meetings discussing information and application security at various locations around Knoxville generally on a Thursday night from 6pm-8pm. Follow updates on [Twitter](https://twitter.com/OWASPKnoxville/) and join our #owasp channel on Slack  [here](https://join.slack.com/t/10-sec/shared_invite/enQtMjcwNzE2OTAyNzQzLTc2OThkNTAxNDIwZjEyZTk3Yjc3ZjRlZjQ2MjNhNjNhNzc5Y2E0MDRkY2Y2NWQwNTg1ZDcxODFjNmQ5MWU0ODk)
 
 # Chapter Sponsors
 OWASP Knoxville would not be able to succeed without its sponsors and contributors.  Currently, OWASP Knoxville is only soliciting for meeting sponsors. If you would like to discuss sponsoring a quarterly meeting, please contact [Andrew Smith](mailto:andrew.smith@owasp.org) or [Kyle Bubp](mailto:kyle.bubp@owasp.org)
