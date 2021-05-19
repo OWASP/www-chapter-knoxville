@@ -1,17 +1,8 @@
 ### knoxville Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
 
-### Code Repository
-* [repo](#)
+### Social Links
 
-### Change Log
-* [changes](#)
+* [Meetup](https://www.meetup.com/knoxville-owasp-meetup-group/
+
 
