@@ -16,13 +16,14 @@ Join the local community of application security enthusiasts today. Every quarte
 
 ## Next Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+*Scheduled events coming soon!*
 
 ## Call For Speakers
 Want to present? Contact [Chandler Johnson](mailto:chandler.johnson@owasp.org) to coordinate. This is a community-driven organization and we strongly belive that everyone has something to contribute.
 
 ## Sponsors
 The OWASP Knoxville Chapter is proudly sponsored by:
+
 <a href="https://zelvin.com/">
     <img src="assets/images/sponsors/zelvin.png" alt="Zelvin Security" width="300"/>
 </a>
