@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Knoxville 
 tags: knoxville
 region: North America
-country: United States 
+country: USA
 meetup-group: OWASP-knoxville
 
 ---
