@@ -1,8 +1,4 @@
-### knoxville Information
-
-
 ### Social Links
-
-* [Meetup](https://www.meetup.com/knoxville-owasp-meetup-group/)
+* [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093)
 
 
