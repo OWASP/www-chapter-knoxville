@@ -5,7 +5,6 @@ title: OWASP Knoxville
 tags: knoxville
 region: North America
 country: USA
-meetup-group: OWASP-knoxville
 
 ---
 
