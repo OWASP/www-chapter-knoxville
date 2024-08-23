@@ -16,7 +16,10 @@ Join the local community of application security enthusiasts today. Every quarte
 
 ## Next Event
 ---------------------
-*Scheduled events coming soon!*
+*Exploiting Business Logic Flaws: The Hidden Weaknesses That Hackers Love*
+- **When:** September 24th, 6:00-7:30pm
+- **Where:** TEKsystems (11400 Parkside Dr Ste 100, Knoxville, TN 37934)
+- **Registration:** https://www.eventbrite.com/e/exploiting-business-logic-flaws-the-hidden-weaknesses-that-hackers-love-tickets-998655394167
 
 ## Call For Speakers
 Want to present? Contact [Chandler Johnson](mailto:chandler.johnson@owasp.org) to coordinate. This is a community-driven organization and we strongly belive that everyone has something to contribute.
