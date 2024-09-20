@@ -8,7 +8,7 @@ country: USA
 
 ---
 
-<img src="assets/images/logos/565px-OWASP-Knoxville_logo.png" alt="OWASP Knoxville" width="500"/>
+<img src="assets/images/logos/OWASP_Knoxville.jpg" alt="OWASP Knoxville" width="500"/>
 
 ## Welcome to Knoxville's Local OWASP Chapter
 Join the local community of application security enthusiasts today. Every quarter, we come together in-person to discuss application security. Best of all, these events are completely free! Whether you're a seasoned professional or just starting out, everyone is welcome. Don't miss out on the chance to broaden your expertise and forge valuable connections within our tight-knit local network.
