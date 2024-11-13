@@ -12,10 +12,12 @@ country: USA
 
 ## Welcome to Knoxville's Local OWASP Chapter
 Join the local community of application security enthusiasts today. Every quarter, we come together in-person to discuss application security. Best of all, these events are completely free! Whether you're a seasoned professional or just starting out, everyone is welcome. Don't miss out on the chance to broaden your expertise and forge valuable connections within our tight-knit local network.
-
 ## Next Event
 ---------------------
-*TBD*
+*Cracking the Code: Uncovering and Fixing Web App Vulnerabilities*
+- **When:** November 19th, 6:00-7:30pm
+- **Where:** 35 North Bar & Grill - 11321 Kingston Pike, Knoxville, TN 37934
+- **Registration:** [Eventbrite](https://www.eventbrite.com/e/cracking-the-code-uncovering-and-fixing-web-app-vulnerabilities-tickets-1082272639599)
 
 ## Call For Speakers
 Want to present? Contact [Chandler Johnson](mailto:chandler.johnson@owasp.org) to coordinate. This is a community-driven organization and we strongly belive that everyone has something to contribute.
