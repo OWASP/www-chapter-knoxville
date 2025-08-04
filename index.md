@@ -16,7 +16,7 @@ Join the local community of application security enthusiasts today. Every quarte
 ---------------------
 *Active Directory Certificate Services by Vinny West*
 - **When:** September 16th, 2025 6:00-7:30pm
-- **Where:** TBD
+- **Where:** TEKSystems, 11400 Parkside Dr STE 100 Knoxville, TN 37934
 - **Registration:** [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093)
 
 ## Call For Speakers
