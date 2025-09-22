@@ -14,9 +14,9 @@ country: USA
 Join the local community of application security enthusiasts today. Every quarter, we come together in-person to discuss application security. Best of all, these events are completely free! Whether you're a seasoned professional or just starting out, everyone is welcome. Don't miss out on the chance to broaden your expertise and forge valuable connections within our tight-knit local network.
 ## Next Event
 ---------------------
-*Active Directory Certificate Services by Vinny West*
-- **When:** November 18th, 2025 - TBD
-- **Where:** TBD (Probably) - TEKSystems, 11400 Parkside Dr STE 100 Knoxville, TN 37934
+*Topic Will Be Revealed at a Later Date, Next Meeting Date is Below*
+- **When:** November 18th, 2025 - Time TBD
+- **Where:** Location TBD - (Probably) TEKSystems, 11400 Parkside Dr STE 100 Knoxville, TN 37934
 - **Registration:** [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093)
 
 ## Call For Speakers
