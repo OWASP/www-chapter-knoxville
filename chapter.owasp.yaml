@@ -1,0 +1,26 @@
+leaders:
+  - name: Chandler Johnson
+    email: chandler.johnson@owasp.org
+    github: johnson-chandler
+  - name: Jeff Atkinson
+    email: jeff.atkinson@owasp.org
+  - name: Matt Perrotti
+    email: matt.perrotti@owasp.org
+    github: matt-perrotti
+location:
+  country: United States
+  country_code: US
+  region: Tennessee
+  city: Knoxville
+  latitude: 35.9603948
+  longitude: -83.9210261
+name: OWASP Knoxville
+repositories:
+  - name: www-chapter-knoxville
+    url: https://github.com/OWASP/www-chapter-knoxville
+    description: OWASP Foundation Web Repository
+tags:
+  - Knoxville
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-knoxville
