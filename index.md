@@ -15,7 +15,7 @@ Join the local community of application security enthusiasts today. Every quarte
 ## Next Event
 ---------------------
 *Business Logic Abuse: Technology Agnostic Mapping of Attack Types - Hosted by: Wallarm*
-- **When:** November 18th, 2025 - Time TBD
+- **When:** November 18th, 2025 - Time: 6:00pm - 7:30pm EST
 - **Where:** Location - Virtual Event
 - **Registration:** [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093)
 
