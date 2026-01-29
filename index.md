@@ -15,15 +15,15 @@ Join the local community of application security enthusiasts today. Every quarte
 ## Next Event
 ---------------------
 *Business Logic Abuse: Technology Agnostic Mapping of Attack Types - Hosted by: Wallarm*
-- **When:** November 18th, 2025 - Time: 6:00pm - 7:30pm EST
-- **Where:** Location - Virtual Event
+- **When:** Date: TBD - Time: TBD EST
+- **Where:** Location - TBD
 - **Registration:** [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093)
 
 ## Call For Speakers
 Want to present? Contact [Chandler Johnson](mailto:chandler.johnson@owasp.org) to coordinate. This is a community-driven organization and we strongly belive that everyone has something to contribute.
 
 ## Sponsors
-The OWASP Knoxville Chapter is proudly sponsored by:
+The OWASP Knoxville Chapter is proudly sponsored by a local Ethical Hacking Consulting company known as:
 
 <a href="https://zelvin.com/">
     <img src="assets/images/sponsors/zelvin.png" alt="Zelvin Security" width="300"/>
