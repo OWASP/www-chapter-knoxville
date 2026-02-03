@@ -14,7 +14,7 @@ country: USA
 Join the local community of application security enthusiasts today. Every quarter, we come together in-person to discuss application security. Best of all, these events are completely free! Whether you're a seasoned professional or just starting out, everyone is welcome. Don't miss out on the chance to broaden your expertise and forge valuable connections within our tight-knit local network.
 ## Next Event
 ---------------------
-*Business Logic Abuse: Technology Agnostic Mapping of Attack Types - Hosted by: Wallarm*
+*Next Talk Topic Will Be Posted Here - TBD 2026*
 - **When:** Date: TBD - Time: TBD EST
 - **Where:** Location - TBD
 - **Registration:** [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093)
