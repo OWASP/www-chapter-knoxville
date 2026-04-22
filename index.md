@@ -20,7 +20,7 @@ Join the local community of application security enthusiasts today. Every quarte
 - **Registration:** [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093](https://www.eventbrite.com/e/dc865owasp-dont-just-shift-left-start-left-before-the-code-writes-itself-tickets-1987393349006?aff=ebdsoporgprofile))
 
 ## Call For Speakers
-Want to present? Contact [Chandler Johnson](mailto:chandler.johnson@owasp.org) to coordinate. This is a community-driven organization and we strongly belive that everyone has something to contribute.
+Want to present? Contact [Chandler Johnson](mailto:chandler.johnson@owasp.org) to coordinate. This is a community-driven organization and we strongly believe that everyone has something to contribute.
 
 ## Sponsors
 The OWASP Knoxville Chapter is proudly sponsored by a local Ethical Hacking Consulting company:
