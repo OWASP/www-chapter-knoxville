@@ -17,7 +17,7 @@ Join the local community of application security enthusiasts today. Every quarte
 *Dont Just Shift Left. Start Left Before The Code Writes Itself by Matt Perrotti - April 28th, 2026*
 - **When:** Date: Tuesday, April 28th, 2026 - Time: 6:00PM EST - Networking & Social, 6:30PM - Talk Begins
 - **Where:** Location - 17 Market Square Suite 101 Knoxville, TN 37902 (Knoxville Entrepreneur Center)
-- **Registration:** [Eventbrite]([https://www.eventbrite.com/o/owasp-knoxville-90373516093](https://www.eventbrite.com/e/dc865owasp-dont-just-shift-left-start-left-before-the-code-writes-itself-tickets-1987393349006?aff=ebdsoporgprofile))
+- **Registration:** [Eventbrite](https://www.eventbrite.com/o/owasp-knoxville-90373516093](https://www.eventbrite.com/e/dc865owasp-dont-just-shift-left-start-left-before-the-code-writes-itself-tickets-1987393349006?aff=ebdsoporgprofile)
 
 ## Call For Speakers
 Want to present? Contact [Chandler Johnson](mailto:chandler.johnson@owasp.org) to coordinate. This is a community-driven organization and we strongly belive that everyone has something to contribute.
